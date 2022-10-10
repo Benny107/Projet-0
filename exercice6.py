@@ -32,7 +32,7 @@ for tirage in tableau_jeu :
 for tirage in tableau_jeu:
   print (tirage,end=',')
   
-  #test
+  #test 
 
 
 print()
