@@ -31,6 +31,8 @@ for tirage in tableau_jeu :
 # On affiche le tirage pour contrôle
 for tirage in tableau_jeu:
   print (tirage,end=',')
+  
+  #test
 
 
 print()
